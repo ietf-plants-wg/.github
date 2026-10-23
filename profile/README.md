@@ -19,9 +19,8 @@ key/identifier bindings.
   [`draft-ietf-plants-merkle-tree-certs`](https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/)
   — Reduces CT logging overhead while maintaining security properties comparable
   to X.509 and Certificate Transparency.
-- **Deployment Use Cases** -
-  [`draft-ietf-plants-deploy-use-cases`](https://datatracker.ietf.org/doc/draft-ietf-plants-deploy-use-cases/)
-  - Explores when and how MTC in parts or full can be used in different use cases.
+- **Deployment Use Cases** —
+  [`draft-ietf-plants-deploy-use-cases`](https://datatracker.ietf.org/doc/draft-ietf-plants-deploy-use-cases/) — Explores when and how MTC in parts or full can be used in different use cases.
 
 ## Resources
 
